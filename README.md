@@ -1,4 +1,4 @@
-# Techdebt_active_learning
+# Repository information
 
 This is the repository relating to the article: 
 Prevalence, Contents and Automatic Detection of KL-SATD
